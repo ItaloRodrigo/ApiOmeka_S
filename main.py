@@ -1,7 +1,7 @@
 from src.ExtractDataOmeka import ExtractDataOmeka
 from src.helper.Helper import Helper
 
-endpoint = 'http://repositorio.itegam.org.br/api'
+endpoint = 'http://xxxxx/api'
 outputfile = 'output.csv'
 
 
