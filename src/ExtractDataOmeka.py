@@ -1,4 +1,3 @@
-import json
 from src.OmekaClient import OmekaClient
 
 

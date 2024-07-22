@@ -1,4 +1,3 @@
-# https://github.com/jimsafley/omeka-client-py
 import httplib2
 import urllib
 import mimetypes
